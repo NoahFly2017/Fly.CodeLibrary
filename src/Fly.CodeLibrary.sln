@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fly.Hold-all", "Fly.Hold-all", "{D3E7DA32-C54C-46FF-97F2-AF4680D2D63E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fly.Test", "Fly.Test", "{55A6BF05-F4F7-445B-8799-9AEDEF5FA3B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{713E3EDE-B279-47DD-AC6E-BCAF46783A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713E3EDE-B279-47DD-AC6E-BCAF46783A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713E3EDE-B279-47DD-AC6E-BCAF46783A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713E3EDE-B279-47DD-AC6E-BCAF46783A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713E3EDE-B279-47DD-AC6E-BCAF46783A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{713E3EDE-B279-47DD-AC6E-BCAF46783A6A} = {55A6BF05-F4F7-445B-8799-9AEDEF5FA3B6}
+	EndGlobalSection
+EndGlobal
