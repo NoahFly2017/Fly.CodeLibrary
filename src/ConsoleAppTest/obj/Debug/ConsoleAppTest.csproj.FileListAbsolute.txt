@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\开源代码\Fly.CodeLibrary\src\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Administrator\Desktop\开源代码\Fly.CodeLibrary\src\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\Administrator\Desktop\开源代码\Fly.CodeLibrary\src\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Administrator\Desktop\开源代码\Fly.CodeLibrary\src\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\开源代码\Fly.CodeLibrary\src\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\Administrator\Desktop\开源代码\Fly.CodeLibrary\src\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
